@@ -1,0 +1,2 @@
+class ImATest:
+    pass
